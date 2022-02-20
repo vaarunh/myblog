@@ -1,4 +1,6 @@
-@import url("https://cdn.tailwindcss.com/3.0.18");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 .cursive{
@@ -13,6 +15,6 @@
 }
 
 .home-name{
-  font-size: 150px;
+  font-size: 120px;
   
 }
